@@ -189,4 +189,4 @@ async def help(ctx):
 async def on_ready():
 	print('Bot is ready')
 
-client.run('ODQ1NDEyMzgyNjI4NzczOTQw.YKglow.SZlD0j-DZw3PTZ3-92m0cVWlG9E')
+client.run('token')
